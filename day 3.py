@@ -1,4 +1,4 @@
-
+int=a,b,c
 b = int(input('enter the year for which you want to calculate'))
 print(b)
 c = int(input('enter your birth year'))
